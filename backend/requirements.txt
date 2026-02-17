@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+vonage>=4.0.0
+vonage_verify
+vonage_video
