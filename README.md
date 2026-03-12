@@ -22,7 +22,7 @@ Using [Silent Authentication (Silent Auth)](https://developer.vonage.com/en/veri
   - **Verify API**: Device ownership validation using Silent Auth / SMS fallback    
   - **Video API**: Real-time video creation and access  
 
-For the architectural decisions and product rationale behind this demo, see the accompanying blog post:  
+For the architectural decisions and product rationale behind this demo, see the accompanying blog post: https://developer.vonage.com/en/blog/build-passwordless-video-login-with-silent-auth-and-the-video-api  
 
 # Demo Flow
 Silent Auth for supported phone number  
